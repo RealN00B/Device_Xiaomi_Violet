@@ -74,7 +74,8 @@ debug.egl.force_msaa=1
 ro.incremental.enable=1
 
 # LMKD
-ro.config.low_ram=false
+ro.lmk.filecache_min_kb=153600
+ro.lmk.stall_limit_critical=40
 
 # Media
 media.stagefright.thumbnail.prefer_hw_codecs=true
