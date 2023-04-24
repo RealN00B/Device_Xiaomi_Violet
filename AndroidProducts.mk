@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/catalyst_violet.mk
+    $(LOCAL_DIR)/superior_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    catalyst_violet-userdebug \
-    catalyst_violet-user \
-    catalyst_violet-eng
+    superior_violet-userdebug \
+    superior_violet-user \
+    superior_violet-eng
